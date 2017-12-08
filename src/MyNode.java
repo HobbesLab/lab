@@ -1,8 +1,8 @@
 package tree;
-
+//This class is very dependent on MyTree not changing a bit not even a comment
 /**
  * This is a node in a binary search tree. The node holds an integer value. HUE + hue256 ;)
- *
+ * 
  * @author Torbjorn Ekman ;-)
  * Course: EDAN10
  * @see MyTree
