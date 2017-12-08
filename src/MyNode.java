@@ -4,6 +4,7 @@ package tree;
  * This is a node in a binary search tree. The node holds an integer value.
  *
  * @author Torbjorn Ekman ;-)
+ * Course: EDAN10
  * @see MyTree
  */
 public class MyNode {
